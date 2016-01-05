@@ -4,6 +4,7 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/kenburns.css">
     <link rel="stylesheet" type="text/css" href="css/weather-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://assets.farsetlabs.org.uk/fonts/myriad-pro/stylesheet.css">
     <script type="text/javascript">
         var gitHash = '<?php echo trim(`git rev-parse HEAD`) ?>';
     </script>
@@ -16,6 +17,13 @@
         <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide1.jpg">
         <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide2.jpg">
         <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide3.jpg">
+    </div>
+    <div class="vtop left">
+        <div class="welcome">
+            <h2>Welcome to</h2>
+            <h1>Farset Labs</h1>
+            <hr>
+        </div>
     </div>
     <div class="top left">
         <div class="date small dimmed"></div>

@@ -2,6 +2,7 @@
 <head>
     <title>Magic Mirror</title>
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/kenburns.css">
     <link rel="stylesheet" type="text/css" href="css/weather-icons.css">
     <script type="text/javascript">
         var gitHash = '<?php echo trim(`git rev-parse HEAD`) ?>';
@@ -11,6 +12,11 @@
 </head>
 
 <body>
+    <div id="slideshow">
+        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide1.jpg">
+        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide2.jpg">
+        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide3.jpg">
+    </div>
     <div class="top left">
         <div class="date small dimmed"></div>
         <div class="time"></div>
@@ -32,6 +38,7 @@
     </div>
 </div>
 
+<script src="js/kenburns.js"></script>
 <script src="js/jquery.js"></script>
 <script src="js/jquery.feedToJSON.js"></script>
 <script src="js/ical_parser.js"></script>

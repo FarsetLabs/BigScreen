@@ -1,9 +1,5 @@
 html {
-    background: url(../img/bg.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: #000;
 }
 
 body, html {
@@ -24,10 +20,16 @@ body, html {
 
 }
 
+.vtop
+{
+       position: absolute;
+       top: 50px;
+}
+
 .top
 {
 	position: absolute;
-	top: 200px;
+	top: 350px;
 }
 
 .left
@@ -236,3 +238,30 @@ body, html {
   font-weight:  200;
 }
 
+.welcome {
+    font-family: 'MyriadPro-Semibold';
+}
+
+.welcome h2 {
+    font-size: 58px;
+    -webkit-margin-before:0em;
+    -webkit-margin-after:0em;
+}
+
+.welcome h1 {
+    font-size: 104px;
+    -webkit-margin-before:0em;
+    -webkit-margin-after:0em;
+}
+
+.welcome hr {
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    margin-left: 0%;
+    height: 5px;
+    color: #fff;
+    background-color: #fff;
+    -webkit-margin-before:0em;
+    -webkit-margin-after:0em;
+}

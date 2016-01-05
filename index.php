@@ -36,7 +36,6 @@
     <div class="bottom center-hor">
         <div class="news medium"></div>
     </div>
-</div>
 
 <script src="js/kenburns.js"></script>
 <script src="js/jquery.js"></script>

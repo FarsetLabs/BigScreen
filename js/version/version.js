@@ -10,10 +10,9 @@ version.checkVersion = function () {
 
 	$.ajax({
 		type: 'GET',
-		url: 'githash.php',
+		url: 'https://api.github.com/repos/FarsetLabs/BigScreen/git/refs/heads/gh-pages',
 		success: function (data) {
-			// The githash variable is located in index.php
-			if (data && data.gitHash !== gitHash) {
+			if (object && object.sha !== currentVersion) {
 				window.location.reload();
 				window.location.href = window.location.href;
 			}

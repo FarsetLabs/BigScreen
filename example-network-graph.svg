@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 200 100"
+   preserveAspectRatio="none"
+   xml:space="preserve"
+   onload="init(evt)"
+   id="svg3407"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="example-network-graph.svg"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1701"
+     inkscape:window-height="1392"
+     id="namedview3434"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="16.271252"
+     inkscape:cy="87.488269"
+     inkscape:window-x="1594"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="graph" /><metadata
+     id="metadata3438"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3436" /><g
+     id="graph"><rect
+       fill="none"
+       height="100%"
+       width="100%"
+       y1="0"
+       x1="0"
+       id="bg" /><line
+       fill="#000000"
+       stroke="#000000"
+       y2="100%"
+       x2="0"
+       y1="0"
+       x1="0"
+       id="axis_x" /><line
+       fill="#000000"
+       stroke="#000000"
+       y2="100%"
+       x2="100%"
+       y1="100%"
+       x1="0"
+       id="axis_y" /><path
+       style="stroke:#3e3e3e;stroke-opacity:0.80000001"
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="0.8"
+       d="M 0 99.63175030996562 L1.6666666666666667 99.25675889509219 L3.3333333333333335 99.14770339497748 L5 98.33671528251561 L6.666666666666667 99.3048266904024 L8.333333333333334 99.85080719489774 L10 99.5881887394561 L11.666666666666668 98.1634327350632 L13.333333333333334 99.91087026899237 L15 99.40337812208871 L16.666666666666668 99.23342755121894 L18.333333333333336 99.59815161580325 L20 97.30031770554397 L21.666666666666668 97.10576214748048 L23.333333333333336 99.90021856336 L25 99.90946904920128 L26.666666666666668 99.7936465113473 L28.333333333333336 97.53757907821736 L30 99.50066229680154 L31.666666666666668 98.73841304361481 L33.333333333333336 99.59937065897414 L35 99.86467422665037 L36.66666666666667 99.38754373086468 L38.333333333333336 99.04363472638647 L40 99.45772 L41.66666666666667 99.78861317205607 L43.333333333333336 99.10269513833101 L45 97.8755301976941 L46.66666666666667 97.67709849497284 L48.333333333333336 99.5132928961574 L50 99.46831015213134 L51.66666666666667 99.84817562318611 L53.333333333333336 99.3790584995255 L55 99.55861687761836 L56.66666666666667 99.83243473069035 L58.333333333333336 99.71599960534259 L60 99.59638116180335 L61.66666666666667 99.03017399738698 L63.333333333333336 99.88684039431068 L65 99.90890376708504 L66.66666666666667 99.88616007810052 L68.33333333333334 99.94987749345881 L70 97.92312274032044 L71.66666666666667 97.8778321405374 L73.33333333333334 99.86457291816117 L75 98.65920431376277 L76.66666666666667 99.3475126942804 L78.33333333333334 99.86160843683594 L80 99.92357089410841 L81.66666666666667 99.62502 L83.33333333333334 99.33228092748855 L85 98.81385765485413 L86.66666666666667 98.30265110428533 L88.33333333333334 99.71571860557914 L90 99.38327921595783 L91.66666666666667 99.63183442869409 L93.33333333333334 98.91194153339327 L95 97.40084444742978 L96.66666666666667 94.19183414217859 L98.33333333333334 85.11101887932655 L100 97.83806188515673 L101.66666666666667 99.0123895661929 L103.33333333333334 99.04554569633798 L105 99.61094370970443 L106.66666666666667 98.15259045677978 L108.33333333333334 98.83853582069187 L110 95.86663326678747 L111.66666666666667 98.46344389375263 L113.33333333333334 98.4563889042124 L115 98.31089127136812 L116.66666666666667 98.21315523177168 L118.33333333333334 99.40828208124213 L120 96.56956967731074 L121.66666666666667 97.5105556508618 L123.33333333333334 99.61638 L125 99.74458674183906 L126.66666666666667 99.70967727360517 L128.33333333333334 99.75319664748994 L130 98.64173048298464 L131.66666666666669 98.26473755720136 L133.33333333333334 98.24365395406532 L135 98.29383674505081 L136.66666666666669 96.57276294259796 L138.33333333333334 71.97009752521478 L140 86.54408858451903 L141.66666666666669 97.2514994188428 L143.33333333333334 96.09517665889445 L145 95.9785794354525 L146.66666666666669 96.97117 L148.33333333333334 99.1065523132718 L150 97.8859657192541 L151.66666666666669 98.44828015008227 L153.33333333333334 99.06810415428974 L155 99.1045356750842 L156.66666666666669 98.24500034181095 L158.33333333333334 99.07499062032142 L160 96.20441638065124 L161.66666666666669 96.4912021108608 L163.33333333333334 96.68675650167846 L165 95.80969294904546 L166.66666666666669 97.2289232284146 L168.33333333333334 99.16062572079419 L170 96.39823027160936 L171.66666666666669 98.85729898113775 L173.33333333333334 95.73735306953833 L175 97.68791874416644 L176.66666666666669 97.06504000619337 L178.33333333333334 97.48012357030416 L180 99.62838354421473 L181.66666666666669 98.1728036352976 L183.33333333333334 97.10545966566175 L185 96.31845884745135 L186.66666666666669 98.4127293960753 L188.33333333333334 99.40345559284907 L190 99.20741152083968 L191.66666666666669 99.06195275259269 L193.33333333333334 99.61949538046048 L195 99.67260062150072 L196.66666666666669 99.50231697777012 L198.33333333333334 99.35102783187985"
+       id="graph_out" /><path
+       style="stroke:#d7d7d7;stroke-opacity:0.93939394"
+       fill="none"
+       stroke="#7f7f7f"
+       stroke-opacity="0.8"
+       d="M 0 99.44834069741624 L1.6666666666666667 98.78624234612083 L3.3333333333333335 98.00032023026372 L5 96.14345082574957 L6.666666666666667 98.14942230062898 L8.333333333333334 99.66128202925105 L10 93.42141854899651 L11.666666666666668 85.20846208316141 L13.333333333333334 99.85791983706685 L15 97.88879712788031 L16.666666666666668 98.4624928122455 L18.333333333333336 98.69979767207705 L20 96.65443011472937 L21.666666666666668 95.37346404208051 L23.333333333333336 99.6756117115922 L25 99.7260973784814 L26.666666666666668 98.50134578205652 L28.333333333333336 86.32707724895018 L30 98.17938174486072 L31.666666666666668 96.31823745701472 L33.333333333333336 98.32552818773775 L35 99.01941879325861 L36.66666666666667 99.22490252162984 L38.333333333333336 99.01557454740629 L40 99.09082 L41.66666666666667 99.43273965493718 L43.333333333333336 91.78033217798871 L45 97.98782511642196 L46.66666666666667 87.09730835270469 L48.333333333333336 89.46136387836036 L50 98.74966344063368 L51.66666666666667 99.6728053813801 L53.333333333333336 94.75102320943554 L55 98.75985693687699 L56.66666666666667 99.68061961730795 L58.333333333333336 99.81137682980352 L60 99.35321018374432 L61.66666666666667 92.43801264843654 L63.333333333333336 98.39650878051991 L65 99.94144099112751 L66.66666666666667 99.94008951571095 L68.33333333333334 99.89374468635272 L70 97.65937195939325 L71.66666666666667 97.98882115295392 L73.33333333333334 99.4467793704884 L75 23.88358171256843 L76.66666666666667 60.25082864379956 L78.33333333333334 99.90084470420223 L80 99.13730434171731 L81.66666666666667 98.88333 L83.33333333333334 96.17624127017626 L85 83.55631643351865 L86.66666666666667 98.65491616593422 L88.33333333333334 99.8345504106839 L90 98.66078660976679 L91.66666666666667 98.45368060471442 L93.33333333333334 93.99732834053077 L95 97.87102004291427 L96.66666666666667 97.25961435530147 L98.33333333333334 86.79132698459944 L100 99.67342366847383 L101.66666666666667 99.790086419092 L103.33333333333334 99.78959412870867 L105 99.47822002661962 L106.66666666666667 99.29037805205958 L108.33333333333334 99.64927740378546 L110 99.09585601961217 L111.66666666666667 98.49614168759148 L113.33333333333334 99.71653630807576 L115 99.50935289437939 L116.66666666666667 99.6163426734018 L118.33333333333334 99.15527883501494 L120 97.48569999941816 L121.66666666666667 97.29095408096899 L123.33333333333334 99.0755 L125 99.27854709943115 L126.66666666666667 99.58094004153504 L128.33333333333334 99.71643022546333 L130 99.20561013077646 L131.66666666666669 98.72468206205698 L133.33333333333334 99.59356644867827 L135 98.96955120323618 L136.66666666666669 97.54932025573221 L138.33333333333334 98.17426686016553 L140 99.09035792964586 L141.66666666666669 99.45034986377622 L143.33333333333334 90.05139900241561 L145 93.64701373709838 L146.66666666666669 90.20631 L148.33333333333334 98.30258239189493 L150 65.92846385949741 L151.66666666666669 69.8768911999191 L153.33333333333334 95.25840355355508 L155 98.99474270306702 L156.66666666666669 65.72299682852848 L158.33333333333334 79.44847749620702 L160 70.82934934797657 L161.66666666666669 99.29924789325214 L163.33333333333334 99.38810592486276 L165 73.85451661180659 L166.66666666666669 98.07375479486777 L168.33333333333334 98.43574527235548 L170 65.56845901108593 L171.66666666666669 80.71085359270454 L173.33333333333334 31.186142274814344 L175 94.5644914246352 L176.66666666666669 82.62546371154139 L178.33333333333334 93.76743110096947 L180 97.52575025318187 L181.66666666666669 97.70660122471138 L183.33333333333334 98.80793086549095 L185 98.54699503224815 L186.66666666666669 99.17421579773676 L188.33333333333334 98.28489252963476 L190 98.11731384191546 L191.66666666666669 97.03462935553542 L193.33333333333334 99.4971971048087 L195 99.80231065757893 L196.66666666666669 99.63688948950085 L198.33333333333334 89.75141798995081"
+       id="graph_in" /><path
+       stroke="#808080"
+       stroke-opacity="0.5"
+       d="M0 25 L 200 25 M0 50 L 200 50 M0 75 L 200 75"
+       id="grid" /><text
+       fill="#808080"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       text-anchor="end"
+       font-size="6"
+       y="25"
+       x="200"
+       id="grid_txt1">15 Mbps</text>
+<text
+       fill="#808080"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       text-anchor="end"
+       font-size="6"
+       y="50"
+       x="200"
+       id="grid_txt2">10 Mbps</text>
+<text
+       fill="#808080"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       text-anchor="end"
+       font-size="6"
+       y="75"
+       x="200"
+       id="grid_txt3">5 Mbps</text>
+<text
+       fill="#7f7f7f"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       font-size="7"
+       y="8"
+       x="5"
+       id="graph_in_lbl"
+       style="fill:#d7d7d7;fill-opacity:0.94117647;">In</text>
+<text
+       fill="#000000"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       font-size="7"
+       y="16"
+       x="5"
+       id="graph_out_lbl"
+       style="fill:#3e3e3e;fill-opacity:0.80000001;">Out</text>
+<text
+       fill="#7f7f7f"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       font-size="7"
+       y="8"
+       x="20"
+       id="graph_in_txt"
+       style="fill:#d7d7d7;fill-opacity:0.94117647;">2.05 Mbps</text>
+<text
+       fill="#000000"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       font-size="7"
+       y="16"
+       x="20"
+       id="graph_out_txt"
+       style="fill:#3e3e3e;fill-opacity:0.80000001;">130 Kbps</text>
+<text
+       fill="#7f7f7f"
+       font-family="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+       text-anchor="end"
+       font-size="8"
+       y="8"
+       x="200"
+       id="ifname">TIBUSLEGACY</text>
+<text
+       style="font-size:4px;font-family:Tahoma, Verdana, Arial, Helvetica, sans-serif;fill:#000000"
+       font-size="4"
+       y="13.731136"
+       x="138.11223"
+       id="graphlast">Graph shows last 360 seconds</text>
+<polygon
+       fill="#000000"
+       stroke="#000000"
+       points="200,100 198,98 198,100"
+       id="axis_arrow_x" /></g><script
+     id="script3432"
+     type="text/ecmascript">
+
+/**
+ * getURL is a proprietary Adobe function, but it's simplicity has made it very
+ * popular. If getURL is undefined we spin our own by wrapping XMLHttpRequest.
+ */
+if (typeof getURL == 'undefined') {
+  getURL = function(url, callback) {
+    if (!url)
+      throw 'No URL for getURL';
+
+    try {
+      if (typeof callback.operationComplete == 'function')
+        callback = callback.operationComplete;
+    } catch (e) {}
+    if (typeof callback != 'function')
+      throw 'No callback function for getURL';
+
+    var http_request = null;
+    if (typeof XMLHttpRequest != 'undefined') {
+      http_request = new XMLHttpRequest();
+    }
+    else if (typeof ActiveXObject != 'undefined') {
+      try {
+        http_request = new ActiveXObject('Msxml2.XMLHTTP');
+      } catch (e) {
+        try {
+          http_request = new ActiveXObject('Microsoft.XMLHTTP');
+        } catch (e) {}
+      }
+    }
+    if (!http_request)
+      throw 'Both getURL and XMLHttpRequest are undefined';
+
+    http_request.onreadystatechange = function() {
+      if (http_request.readyState == 4) {
+        callback( { success : true,
+                    content : http_request.responseText,
+                    contentType : http_request.getResponseHeader(&quot;Content-Type&quot;) } );
+      }
+    }
+    http_request.open('GET', url, true);
+    http_request.send(null);
+  }
+}
+
+var SVGDoc = null;
+var last_ifin = 0;
+var last_ifout = 0;
+var last_ugmt = 0;
+var max = 0;
+var plot_in = new Array();
+var plot_out = new Array();
+
+var max_num_points = 120;  // maximum number of plot data points
+var step = 200 / max_num_points ;
+var unit = 'bits';
+var scale_type = 'up';
+
+function init(evt) {
+  SVGDoc = evt.target.ownerDocument;
+  SVGDoc.getElementById(&quot;switch_unit&quot;).addEventListener(&quot;mousedown&quot;, switch_unit, false);
+  SVGDoc.getElementById(&quot;switch_scale&quot;).addEventListener(&quot;mousedown&quot;, switch_scale, false);
+
+  fetch_data();
+}
+
+function switch_unit(event)
+{
+  SVGDoc.getElementById('switch_unit').firstChild.data = 'Switch to ' + unit + '/s';
+  unit = (unit == 'bits') ? 'bytes' : 'bits';
+}
+
+function switch_scale(event)
+{
+  scale_type = (scale_type == 'up') ? 'follow' : 'up';
+  SVGDoc.getElementById('switch_scale').firstChild.data = 'AutoScale (' + scale_type + ')';
+}
+
+function fetch_data() {
+  getURL('ifstats.php?if=em0', plot_data);
+}
+
+function plot_data(obj) {
+  // Show datetimelegend
+  var now = new Date();
+  var time = LZ(now.getHours()) + &quot;:&quot; + LZ(now.getMinutes()) + &quot;:&quot; + LZ(now.getSeconds());
+  SVGDoc.getElementById('time').firstChild.data = time;
+  var date = (now.getMonth()+1) + &quot;/&quot; + now.getDate() + &quot;/&quot; + now.getFullYear();
+  SVGDoc.getElementById('date').firstChild.data = date;
+
+  if (!obj.success)
+    return handle_error();  // getURL failed to get data
+
+  var t = obj.content.split(&quot;|&quot;);
+  var ugmt = parseFloat(t[0]);  // ugmt is an unixtimestamp style
+  var ifin = parseInt(t[1], 10);    // number of bytes received by the interface
+  var ifout = parseInt(t[2], 10);   // number of bytes sent by the interface
+  var scale;
+
+  if (!isNumber(ifin) || !isNumber(ifout))
+    return handle_error();
+
+  var diff_ugmt  = ugmt - last_ugmt;
+  var diff_ifin  = ifin - last_ifin;
+  var diff_ifout = ifout - last_ifout;
+
+  if (diff_ugmt == 0)
+    diff_ugmt = 1;  /* avoid division by zero */
+
+  last_ugmt = ugmt;
+  last_ifin = ifin;
+  last_ifout = ifout;
+  var graphTimerId = 0;
+  switch (plot_in.length) {
+  	case 0:
+  		SVGDoc.getElementById(&quot;collect_initial&quot;).setAttributeNS(null, 'visibility', 'visible');
+		plot_in[0] = diff_ifin / diff_ugmt;
+		plot_out[0] = diff_ifout / diff_ugmt;
+		setTimeout('fetch_data()',6000);
+		return;
+	case 1:
+    	SVGDoc.getElementById(&quot;collect_initial&quot;).setAttributeNS(null, 'visibility', 'hidden');
+    	break;
+    case max_num_points:
+		// shift plot to left if the maximum number of plot points has been reached
+		var i = 0;
+		while (i &lt; max_num_points) {
+		  plot_in[i] = plot_in[i+1];
+		  plot_out[i] = plot_out[++i];
+		}
+		plot_in.length--;
+		plot_out.length--;
+  }
+
+  plot_in[plot_in.length] = diff_ifin / diff_ugmt;
+  plot_out[plot_out.length]= diff_ifout / diff_ugmt;
+  var index_plot = plot_in.length - 1;
+
+  SVGDoc.getElementById('graph_in_txt').firstChild.data = formatSpeed(plot_in[index_plot], unit);
+  SVGDoc.getElementById('graph_out_txt').firstChild.data = formatSpeed(plot_out[index_plot], unit);
+
+  /* determine peak for sensible scaling */
+  if (scale_type == 'up') {
+    if (plot_in[index_plot] &gt; max)
+      max = plot_in[index_plot];
+    if (plot_out[index_plot] &gt; max)
+      max = plot_out[index_plot];
+  }
+  else if (scale_type == 'follow') {
+    i = 0;
+    max = 0;
+    while (i &lt; plot_in.length) {
+      if (plot_in[i] &gt; max)
+        max = plot_in[i];
+      if (plot_out[i] &gt; max)
+        max = plot_out[i];
+      i++;
+    }
+  }
+
+  var rmax;  // max, rounded up
+
+  if (unit == 'bits') {
+    /* round up max, such that
+         100 kbps -&gt; 200 kbps -&gt; 400 kbps -&gt; 800 kbps -&gt; 1 Mbps -&gt; 2 Mbps -&gt; ... */
+    rmax = 12500;
+    i = 0;
+    while (max &gt; rmax) {
+      i++;
+      if (i &amp;&amp; (i % 4 == 0))
+        rmax *= 1.25;
+      else
+        rmax *= 2;
+    }
+  } else {
+    /* round up max, such that
+         10 KB/s -&gt; 20 KB/s -&gt; 40 KB/s -&gt; 80 KB/s -&gt; 100 KB/s -&gt; 200 KB/s -&gt; 400 KB/s -&gt; 800 KB/s -&gt; 1 MB/s ... */
+    rmax = 10240;
+    i = 0;
+    while (max &gt; rmax) {
+      i++;
+      if (i &amp;&amp; (i % 4 == 0))
+        rmax *= 1.25;
+      else
+        rmax *= 2;
+      
+      if (i == 8)
+        rmax *= 1.024;
+    }
+  }
+
+  scale = 100 / rmax;
+
+  /* change labels accordingly */
+  SVGDoc.getElementById('grid_txt1').firstChild.data = formatSpeed(3*rmax/4,unit);
+  SVGDoc.getElementById('grid_txt2').firstChild.data = formatSpeed(2*rmax/4,unit);
+  SVGDoc.getElementById('grid_txt3').firstChild.data = formatSpeed(rmax/4,unit);
+
+  var path_in = &quot;M 0 &quot; + (100 - (plot_in[0] * scale));
+  var path_out = &quot;M 0 &quot; + (100 - (plot_out[0] * scale));
+  for (i = 1; i &lt; plot_in.length; i++)
+  {
+    var x = step * i;
+    var y_in = 100 - (plot_in[i] * scale);
+    var y_out = 100 - (plot_out[i] * scale);
+    path_in += &quot; L&quot; + x + &quot; &quot; + y_in;
+    path_out += &quot; L&quot; + x + &quot; &quot; + y_out;
+  }
+
+  SVGDoc.getElementById('error').setAttributeNS(null, 'visibility', 'hidden');
+  SVGDoc.getElementById('graph_in').setAttributeNS(null, 'd', path_in);
+  SVGDoc.getElementById('graph_out').setAttributeNS(null, 'd', path_out);
+
+  setTimeout('fetch_data()',3000);
+}
+
+function handle_error() {
+  SVGDoc.getElementById(&quot;error&quot;).setAttributeNS(null, 'visibility', 'visible');
+  setTimeout('fetch_data()',3000);
+}
+
+function isNumber(a) {
+  return typeof a == 'number' &amp;&amp; isFinite(a);
+}
+
+function formatSpeed(speed, unit) {
+  if (unit == 'bits')
+    return formatSpeedBits(speed);
+  if (unit == 'bytes')
+    return formatSpeedBytes(speed);
+}
+
+function formatSpeedBits(speed) {
+  // format speed in bits/sec, input: bytes/sec
+  if (speed &lt; 125000)
+    return Math.round(speed / 125) + &quot; Kbps&quot;;
+  if (speed &lt; 125000000)
+    return Math.round(speed / 1250)/100 + &quot; Mbps&quot;;
+  // else
+  return Math.round(speed / 1250000)/100 + &quot; Gbps&quot;;  /* wow! */
+}
+
+function formatSpeedBytes(speed) {
+  // format speed in bytes/sec, input:  bytes/sec
+  if (speed &lt; 1048576)
+    return Math.round(speed / 10.24)/100 + &quot; KB/s&quot;;
+  if (speed &lt; 1073741824)
+    return Math.round(speed / 10485.76)/100 + &quot; MB/s&quot;;
+  // else
+  return Math.round(speed / 10737418.24)/100 + &quot; GB/s&quot;;  /* wow! */
+}
+
+function LZ(x) {
+  return (x &lt; 0 || x &gt; 9 ? &quot;&quot; : &quot;0&quot;) + x;
+}
+
+    </script></svg>

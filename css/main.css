@@ -284,3 +284,8 @@ body, html {
     -webkit-margin-before:0em;
     -webkit-margin-after:0em;
 }
+
+.netgraph {
+    width: 509px;
+    height: 282px;
+}

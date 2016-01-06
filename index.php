@@ -6,7 +6,11 @@
     <link rel="stylesheet" type="text/css" href="css/weather-icons.css">
     <link rel="stylesheet" type="text/css" href="https://assets.farsetlabs.org.uk/fonts/myriad-pro/stylesheet.css">
     <script type="text/javascript">
-        var gitHash = '<?php echo trim(`git rev-parse HEAD`) ?>';
+        $.getJSON('https://api.github.com/repos/FarsetLabs/BigScreen/git/refs/heads/gh-pages', function(data) {
+            if (data.object && data.object.sha) {
+                var currentVersion = data.object.sha;
+            }
+        });
     </script>
     <meta name="google" value="notranslate" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />

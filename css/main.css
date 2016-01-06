@@ -34,7 +34,7 @@ body, html {
 .top
 {
 	position: absolute;
-	top: 350px;
+	top: 325px;
 }
 
 .left
@@ -56,6 +56,14 @@ body, html {
 	height: 200px;
 	margin-top: -100px;
 	line-height: 100px;
+}
+
+.upper-third
+{
+	position: absolute;
+	top: 825px;
+	height: 200px;
+	margin-top: -100px;
 }
 
 .lower-third
@@ -189,8 +197,8 @@ body, html {
 }
 
 .calendar-table {
-	font-size: 14px;
-	line-height: 20px;
+	font-size: 20px;
+	line-height: 24px;
 	margin-top: 10px;
 }
 .calendar-table .days {
@@ -247,6 +255,12 @@ body, html {
     font-family: 'MyriadPro-Semibold';
 }
 
+.welcome h3 {
+    font-size: 38px;
+    -webkit-margin-before:0em;
+    -webkit-margin-after:0.5em;
+}
+
 .welcome h2 {
     font-size: 58px;
     -webkit-margin-before:0em;
@@ -261,9 +275,9 @@ body, html {
 
 .welcome hr {
     position: absolute;
-    width: 100%;
+    width: 250%;
     left: 0%;
-    margin-left: 0%;
+    margin-left: -10%;
     height: 5px;
     color: #fff;
     background-color: #fff;

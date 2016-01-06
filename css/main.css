@@ -289,3 +289,12 @@ body, html {
     width: 509px;
     height: 282px;
 }
+
+.power p {
+    font-size: 35px;
+    -webkit-margin-before:0em;
+    -webkit-margin-after:0em;
+}
+.power #value {
+    font-size: 104px;
+}

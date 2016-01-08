@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+#tubular-container {
+    opacity: 0.5;
+}
+
+
+.black-15 { background: url(../media/black-15-trans.png); color: #fff; padding: 4px 12px; margin: 24px 0; }
+.black-35 { background: url(../media/black-35-trans.png); color: #fff; padding: 4px 12px; margin: 24px 0; }
+.black-50 { background: url(../media/black-50-trans.png); color: #fff; padding: 4px 12px; margin: 24px 0; }
+.black-65 { background: url(../media/black-65-trans.png); color: #fff; padding: 4px 12px; margin: 24px 0; }
+.black-85 { background: url(../media/black-85-trans.png); color: #fff; padding: 4px 12px; margin: 24px 0; }
+
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}

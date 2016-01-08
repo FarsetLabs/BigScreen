@@ -35,7 +35,7 @@ var config = {
     },
     calendar: {
         maximumEntries: 10,
-        url: "https://calendar.google.com/calendar/ical/farsetlabs.org.uk_srmqnkn373auq51u00s2nijrq8%40group.calendar.google.com/public/basic.ics"
+        url: "https://www.google.com/calendar/ical/rehabstudio.com_2d37343632333732362d343934%40resource.calendar.google.com/public/basic.ics"
     },
     news: {
         feed: 'http://blog.farsetlabs.org.uk/feed/'

@@ -1,12 +1,13 @@
 <html>
 <head>
     <title>Magic Mirror</title>
+    <link href="css/screen.css" rel="stylesheet" type="text/css" /> 
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="stylesheet" type="text/css" href="css/kenburns.css">
     <link rel="stylesheet" type="text/css" href="css/weather-icons.css">
     <link rel="stylesheet" type="text/css" href="https://assets.farsetlabs.org.uk/fonts/myriad-pro/stylesheet.css">
     <script src="js/jquery.js"></script>
     <script src="js/jquery.feedToJSON.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/jquery.tubular.1.0.js"></script>
     <script src="js/ical_parser.js"></script>
     <script src="js/moment-with-locales.min.js"></script>
     <script src="js/config.js"></script>
@@ -17,6 +18,7 @@
     <script src="js/weather/weather.js" type="text/javascript"></script>
     <script src="js/time/time.js" type="text/javascript"></script>
     <script src="js/news/news.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf-8" src="js/example.js"></script>
     <script src="js/main.js"></script>
     <!-- <script src="js/socket.io.min.js"></script> -->
     <script type="text/javascript">
@@ -31,15 +33,10 @@
 </head>
 
 <body>
-    <div id="slideshow">
-        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide1.jpg">
-        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide2.jpg">
-        <img src="http://www.farsetlabs.org.uk/assets/img/carousels/frontpage/slide3.jpg">
-    </div>
+<div id="wrapper" class="clearfix">
     <div class="vtop left">
         <div class="welcome">
-            <h2>Welcome to</h2>
-            <h1>Farset Labs</h1>
+            <img src="img/rehab.png">
             <hr>
         </div>
     </div>
@@ -57,16 +54,21 @@
     </div>
     <div class="top right">
         <div class="welcome">
-            <h3>Upcoming Events</h3>
+            <h3>Upcoming Meetings</h3>
+            <h4>Belfast U12</h4>
+            <h4>Belfast U13</h4>
+            <h4>London MR1</h4>
+            <h4>London MR2</h4>
         </div>
         <div class="calendar medium"></div>
     </div>
     <div class="upper-third left">
-        <div class="welcome power normal">
-            <h3>Power consumption</h3>
-            <p>Current:</p>
-            <p id="value">323W</p>
-            <p>Total today: 1.2kWh</p>
+        <div class="welcome power light small">
+            <h3>Currently Playing</h3>
+            <h4>Belfast U12</h4>
+            <p>Alter Bridge — Cry of Achilles</p>
+            <h4>London Studio 1</h4>
+            <p>Juicy J Music — All I Need feat. K Camp (Blue Dream & Lean 2 Version)</p>
         </div>
     </div>
     <div class="upper-third right">
@@ -83,8 +85,6 @@
     <div class="bottom center-hor">
         <div class="news medium"></div>
     </div>
-
-<script src="js/kenburns.js"></script>
-
+</div><!-- #wrapper -->
 </body>
 </html>
